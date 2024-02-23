@@ -1,3 +1,5 @@
+#! /usr/bin/python3
+
 import sys
 from libs.commands import CommandManager
 from os import mkdir, path
